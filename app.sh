@@ -1,2 +1,1 @@
-Hello DevOps
-Feature added
+Hello from feature2
